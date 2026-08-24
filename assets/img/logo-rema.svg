@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Rema Remodelaciones en Madera</title>
+  <desc id="desc">Logotipo transparente con monograma Rema inspirado en vetas y ensambles de madera.</desc>
+  <defs>
+    <linearGradient id="wood" x1="48" y1="272" x2="272" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6f351f"/>
+      <stop offset="0.5" stop-color="#b86a37"/>
+      <stop offset="1" stop-color="#d49a5c"/>
+    </linearGradient>
+    <linearGradient id="dark" x1="76" y1="238" x2="230" y2="62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1f1813"/>
+      <stop offset="1" stop-color="#49382d"/>
+    </linearGradient>
+  </defs>
+  <path d="M48 258V62h112c42 0 74 28 74 68 0 29-17 52-44 63l73 65h-58l-63-58H92v58H48Zm44-95h62c20 0 34-13 34-32 0-18-14-31-34-31H92v63Z" fill="url(#dark)"/>
+  <path d="M48 258h232v-35H48v35Zm209-196-52 91h46l52-91h-46Z" fill="url(#wood)"/>
+  <path d="M69 42c55 22 120 21 190-4M69 284c70-24 131-24 190 0" fill="none" stroke="#d49a5c" stroke-width="10" stroke-linecap="round" opacity=".48"/>
+</svg>
